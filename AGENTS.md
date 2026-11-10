@@ -28,3 +28,7 @@ use the editor.
   own key and store it in Secrets.
 - **Secrets.** Lovable manages them. Do not put secret values in the repo.
 <!-- LOVABLE:END -->
+
+## Application architecture
+- Keep the experience in the TanStack Start route system; the home route owns the campus app shell, while pure mock-data and local-persistence rules live in shared browser-safe helpers so they can be validated independently.
+- Keep CampusFlow frontend-only: use realistic local mock data and browser localStorage for reservations, favorites, and alert preferences; no accounts, Cloud, or remote data services.

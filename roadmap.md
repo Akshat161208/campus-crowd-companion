@@ -1,0 +1,3 @@
+- [ ] Build the responsive CampusFlow landing and live dashboard.
+- [ ] Implement library seat reservations, canteen menu/queue, insights, alerts, search, favorites, and appearance toggle.
+- [ ] Add local-storage rule tests and verify the main flows, mobile layout, and current preview diagnostics.
