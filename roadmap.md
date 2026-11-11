@@ -1,3 +1,5 @@
-- [ ] Build the responsive CampusFlow landing and live dashboard.
-- [ ] Implement library seat reservations, canteen menu/queue, insights, alerts, search, favorites, and appearance toggle.
-- [ ] Add local-storage rule tests and verify the main flows, mobile layout, and current preview diagnostics.
+- [x] Build the responsive CampusFlow landing and live dashboard.
+- [x] Implement library seat reservations, canteen menu/queue, insights, alerts, search, favorites, and appearance toggle.
+- [ ] Add student login and registration with email, Google, and Lovable sign-in.
+- [ ] Save student display names in owner-scoped profiles and provide password recovery.
+- [ ] Test student account flows, existing local-storage rules, responsive views, and preview diagnostics.
